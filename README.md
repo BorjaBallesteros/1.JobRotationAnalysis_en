@@ -1,4 +1,4 @@
-[Ver este proyecto en español](https://github.com/BorjaBallesteros/Portfolio-data-analytics-en)
+[Ver este proyecto en español]([https://github.com/BorjaBallesteros/Portfolio-data-analytics-en](https://github.com/BorjaBallesteros/1.AnalisisRotacionLaboral_es))
 
 ## Analysis and prediction of labour turnover
 
